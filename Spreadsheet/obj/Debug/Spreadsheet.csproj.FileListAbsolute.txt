@@ -1,0 +1,9 @@
+C:\Users\Dragos\Desktop\IP10\interfata\Spreadsheet\bin\Debug\Spreadsheet.exe
+C:\Users\Dragos\Desktop\IP10\interfata\Spreadsheet\bin\Debug\Spreadsheet.pdb
+C:\Users\Dragos\Desktop\IP10\interfata\Spreadsheet\obj\Debug\Spreadsheet.csproj.AssemblyReference.cache
+C:\Users\Dragos\Desktop\IP10\interfata\Spreadsheet\obj\Debug\Spreadsheet.MainForm.resources
+C:\Users\Dragos\Desktop\IP10\interfata\Spreadsheet\obj\Debug\Spreadsheet.Properties.Resources.resources
+C:\Users\Dragos\Desktop\IP10\interfata\Spreadsheet\obj\Debug\Spreadsheet.csproj.GenerateResource.cache
+C:\Users\Dragos\Desktop\IP10\interfata\Spreadsheet\obj\Debug\Spreadsheet.csproj.CoreCompileInputs.cache
+C:\Users\Dragos\Desktop\IP10\interfata\Spreadsheet\obj\Debug\Spreadsheet.exe
+C:\Users\Dragos\Desktop\IP10\interfata\Spreadsheet\obj\Debug\Spreadsheet.pdb
